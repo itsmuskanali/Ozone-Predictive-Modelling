@@ -1,0 +1,6 @@
+In computational modeling and time-series data, temporal resolution refers to the specific time intervals or steps at which data is sampled.
+High Temporal Resolution: Sampling data every few seconds, minutes, or hours (e.g., real-time stock market data or IoT sensor logs).
+Low Temporal Resolution: Sampling data on a weekly, monthly, or yearly basis (e.g., annual climate trends or quarterly financial reports).
+Why it Matters: The Trade-OffIn almost every technological or scientific field, there is an inherent trade-off between temporal resolution and 
+spatial or spectral resolution. Acquiring highly detailed pictures or deep, granular data takes more time, meaning you often have to sacrifice 
+how frequently you can take the measurement.
