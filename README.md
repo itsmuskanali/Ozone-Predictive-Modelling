@@ -1,11 +1,14 @@
 # Ozone-Predictive-Modelling
 Ozone is continuously created and destroyed in the stratosphere through a delicate natural balance driven by sunlight. However, human-made chemicals have severely disrupted this cycle, leading to dangerous depletion.
 
-## 1. Natural Ozone Production (The Chapman Mechanism)Ozone (\(O_{3}\)) 
-is born when intense sunlight strikes the upper stratosphere.Step 1: High-energy Ultraviolet (UV) radiation breaks a standard oxygen molecule (\(O_{2}\)) apart into two separate oxygen atoms (\(O\)).Step 2: These highly reactive, free oxygen atoms collide with other oxygen molecules (\(O_{2}\)).Step 3: The collision forms ozone (\(O_{3}\)). This continuous process acts as Earth's natural sunscreen, absorbing roughly \(98\%\) of damaging UV rays.
+## 1. Natural Ozone Production (The Chapman Mechanism)Ozone
+is born when intense sunlight strikes the upper stratosphere.
+Step 1: High-energy Ultraviolet (UV) radiation breaks a standard oxygen molecule  apart into two separate oxygen atoms.
+Step 2: These highly reactive, free oxygen atoms collide with other oxygen molecules.
+Step 3: The collision forms ozone. This continuous process acts as Earth's natural sunscreen, absorbing roughly (98%) of damaging UV rays.
 
 ## 2. Natural Ozone Depletion
-To maintain a stable layer, ozone is also destroyed naturally.When UV light hits an ozone molecule , it breaks it down into an oxygen molecule (\(O_{2}\)) and a single oxygen atom (\(O\)).This creates an ongoing cycle where ozone is constantly made, broken down, nd remade.
+To maintain a stable layer, ozone is also destroyed naturally.When UV light hits an ozone molecule , it breaks it down into an oxygen molecule and a single oxygen atom. This creates an ongoing cycle where ozone is constantly made, broken down, nd remade.
 
 ## 3. Human-Caused Ozone Depletion
 The natural cycle was disrupted when humans introduced stable chemicals like Chlorofluorocarbons (CFCs)—previously used in aerosol cans, air conditioners, and refrigerators.
