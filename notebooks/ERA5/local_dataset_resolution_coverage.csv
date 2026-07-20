@@ -1,0 +1,9 @@
+dataset,source,netcdf_file_count,first_date,last_date,temporal_resolution,spatial_resolution,grid_shape,ozone_variable
+TOMS_N7,/Users/muskanali/Desktop/ISRO/OZONE/tco/TOMS_N7,5265,1978-11-01,1993-05-06,Daily,1.00 deg lat x 1.25 deg lon,180 x 288,Ozone
+TOMS1,/Users/muskanali/Desktop/ISRO/OZONE/tco/TOMS1,2645,1996-07-22,2003-12-31,Daily,1.00 deg lat x 1.25 deg lon,180 x 288,Ozone
+TOMS1_,/Users/muskanali/Desktop/ISRO/OZONE/tco/TOMS1_,712,2004-01-01,2005-12-14,Daily,1.00 deg lat x 1.25 deg lon,180 x 288,Ozone
+OMI,/Users/muskanali/Desktop/ISRO/OZONE/tco/OMI,5751,2004-10-01,2020-07-31,Daily,0.25 deg lat x 0.25 deg lon,1 x 720 x 1440,OMDOAO3e_003_ColumnAmountO3
+TOMS_N7_data.csv,/Users/muskanali/Desktop/ISRO/OZONE/TOMS_N7_data.csv,,,,No date column; spatial extract only,Point/grid rows from extracted snapshot,40825 rows x 5 columns,Total_Ozone_Column
+TOMS1_data.csv,/Users/muskanali/Desktop/ISRO/OZONE/TOMS1_data.csv,,,,No date column; spatial extract only,Point/grid rows from extracted snapshot,8364 rows x 5 columns,Total_Ozone_Column
+TOMS1__data.csv,/Users/muskanali/Desktop/ISRO/OZONE/TOMS1__data.csv,,,,No date column; spatial extract only,Point/grid rows from extracted snapshot,38957 rows x 5 columns,Total_Ozone_Column
+OMI_data.csv,/Users/muskanali/Desktop/ISRO/OZONE/OMI_data.csv,,,,No date column; spatial extract only,Point/grid rows from extracted snapshot,1007951 rows x 5 columns,Total_Ozone_Column
