@@ -1,0 +1,18 @@
+Period 4: 2011-2020
+===================
+
+Years used: 2011-2020
+Number of annual means: 10
+Mean pixel trend: 0.6892 DU/year
+Median pixel trend: 0.4033 DU/year
+Annual global-mean slope: 0.6892 DU/year
+Depleting grid area: 35.4%
+Recovering grid area: 64.6%
+
+Interpretation: Recovery-dominated period: the global grid-cell mean trend is positive.
+
+Annual global means (DU):
+2011: 289.50; 2012: 297.66; 2013: 298.85; 2014: 298.27; 2015: 295.18; 2016: 294.96; 2017: 297.28; 2018: 298.00; 2019: 303.21; 2020: 298.64
+
+Input instruments/files:
+2011: OMI (365 files); 2012: OMI (366 files); 2013: OMI (365 files); 2014: OMI (365 files); 2015: OMI (365 files); 2016: OMI (353 files); 2017: OMI (359 files); 2018: OMI (365 files); 2019: OMI (365 files); 2020: OMI (213 files)

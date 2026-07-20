@@ -1,0 +1,18 @@
+Period 2: 1988-2000
+===================
+
+Years used: 1988-2000
+Number of annual means: 11
+Mean pixel trend: -1.0912 DU/year
+Median pixel trend: -0.6350 DU/year
+Annual global-mean slope: -1.1008 DU/year
+Depleting grid area: 98.8%
+Recovering grid area: 1.2%
+
+Interpretation: Depletion-dominated period: the global grid-cell mean trend is negative.
+
+Annual global means (DU):
+1988: 305.43; 1989: 303.14; 1990: 295.39; 1991: 302.93; 1992: 294.33; 1993: 296.94; 1996: 280.07; 1997: 287.13; 1998: 295.39; 1999: 292.80; 2000: 293.80
+
+Input instruments/files:
+1988: TOMS_N7 (366 files); 1989: TOMS_N7 (365 files); 1990: TOMS_N7 (365 files); 1991: TOMS_N7 (365 files); 1992: TOMS_N7 (366 files); 1993: TOMS_N7 (126 files); 1996: TOMS1 (140 files); 1997: TOMS1 (354 files); 1998: TOMS1 (346 files); 1999: TOMS1 (364 files); 2000: TOMS1 (366 files)

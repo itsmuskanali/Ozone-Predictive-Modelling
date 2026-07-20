@@ -1,0 +1,18 @@
+Period 1: 1979-1987
+===================
+
+Years used: 1979-1987
+Number of annual means: 9
+Mean pixel trend: -2.0373 DU/year
+Median pixel trend: -1.1652 DU/year
+Annual global-mean slope: -2.0372 DU/year
+Depleting grid area: 99.5%
+Recovering grid area: 0.5%
+
+Interpretation: Depletion-dominated period: the global grid-cell mean trend is negative.
+
+Annual global means (DU):
+1979: 315.21; 1980: 313.33; 1981: 310.50; 1982: 310.23; 1983: 304.88; 1984: 305.88; 1985: 299.36; 1986: 301.31; 1987: 300.33
+
+Input instruments/files:
+1979: TOMS_N7 (336 files); 1980: TOMS_N7 (366 files); 1981: TOMS_N7 (365 files); 1982: TOMS_N7 (364 files); 1983: TOMS_N7 (365 files); 1984: TOMS_N7 (366 files); 1985: TOMS_N7 (365 files); 1986: TOMS_N7 (365 files); 1987: TOMS_N7 (365 files)

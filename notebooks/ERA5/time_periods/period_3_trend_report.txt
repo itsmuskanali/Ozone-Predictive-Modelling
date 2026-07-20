@@ -1,0 +1,18 @@
+Period 3: 2001-2010
+===================
+
+Years used: 2001-2010
+Number of annual means: 10
+Mean pixel trend: -0.4254 DU/year
+Median pixel trend: -0.4812 DU/year
+Annual global-mean slope: -0.4254 DU/year
+Depleting grid area: 77.8%
+Recovering grid area: 22.2%
+
+Interpretation: Depletion-dominated period: the global grid-cell mean trend is negative.
+
+Annual global means (DU):
+2001: 295.07; 2002: 301.58; 2003: 296.64; 2004: 294.80; 2005: 292.33; 2006: 291.02; 2007: 292.06; 2008: 289.84; 2009: 293.88; 2010: 298.10
+
+Input instruments/files:
+2001: TOMS1 (365 files); 2002: TOMS1 (356 files); 2003: TOMS1 (354 files); 2004: TOMS1_ (366 files); 2005: OMI (365 files); 2006: OMI (362 files); 2007: OMI (364 files); 2008: OMI (364 files); 2009: OMI (365 files); 2010: OMI (365 files)

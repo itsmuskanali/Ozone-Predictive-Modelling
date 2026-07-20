@@ -1,0 +1,12 @@
+Period 5: 2021-Present
+======================
+
+Years used: None
+Number of annual means: 0
+Mean pixel trend: n/a
+Median pixel trend: n/a
+Annual global-mean slope: n/a
+Depleting grid area: n/a
+Recovering grid area: n/a
+
+Interpretation: No gridded data are available in this workspace for this period.
